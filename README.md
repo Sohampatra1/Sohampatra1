@@ -133,12 +133,43 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
+
+
+
 <hr>
 
 </p>
 
 <h1 align='center'>⚡️<i>Stay Hungry Stay Foolish!</i>⚡️</h1>
 
-<p align="center">
+
+<!-- <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
+</p> -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
+
+  
