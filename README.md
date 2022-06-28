@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 <!--  ![MasterHead](https://miro.medium.com/max/1400/1*mqv03KrlG5LK2XU1uV4LJg.gif). -->
 
+![MasterHead](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
+
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
