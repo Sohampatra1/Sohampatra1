@@ -45,7 +45,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://twitter.com/sohampatra18" target="blank"><img src="https://img.shields.io/twitter/follow/sohampatra18?logo=twitter&style=for-the-badge" alt="sohampatra18" /></a> </p>
 <br>
 
-## About Me
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 - ⌛️ Exploring **DevOps**
 
@@ -63,9 +64,14 @@ Here are some ideas to get you started:
 
 - 💻 Competitive Programming Enthusiast
 
+
+
 <hr>
 
-<h3 align="left">Connect with me:</h3>
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="45"> <em><b>Connect with me</b>
+
+<!-- <h3 align="left">Connect with me:</h3> -->
+
 <p align="left">
 <a href="https://twitter.com/sohampatra18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sohampatra18" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/soham-patra-7b86711ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soham-patra-7b86711ba" height="30" width="40" /></a>
