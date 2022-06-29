@@ -190,7 +190,7 @@ Here are some ideas to get you started:
 
 </p>
 
-<h1 align='center'>⚡️<i>Stay Hungry Stay Foolish!</i>⚡️</h1>
+<h1 align='center'>⚡️<i>Stay Hungry , Stay Foolish!</i>⚡️</h1>
 
 
 <!-- <p align="center">
