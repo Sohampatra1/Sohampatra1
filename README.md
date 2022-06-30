@@ -146,6 +146,8 @@ Here are some ideas to get you started:
 
 
 
+<a href="https://www.linux.org/" target="_blank"><img align="left" alt="Linux" height ="42px" src="https://github.com/danilobbezerra/danilobbezerra/blob/main/imagens/linux.png"></a>
+
 
 
 
