@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Github Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
@@ -117,9 +117,10 @@ Here are some ideas to get you started:
 
 
 
-<br>
 
-### 🔨 Languages and Tools:
+
+<h2 align="left"> <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="45"> Languages and Tools:  </h2>
+<br>
 
 <a href="https://www.docker.com" target="_blank"><img align="left" alt="docker" height ="42px" src="https://github.com/rahul-jha98/README_icons/blob/main/language_and_tools/square/docker/docker.svg"></a>
 
