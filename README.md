@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - ⌛️ Exploring **DevOps**
 
-- 🌱 I’m currently learning **web 3.0**
+- 🌱 I’m currently learning **Web Development**
 
 - 🧑🏻‍🎓 Pursuing my Bachelors in Electrical Engineering from **IIEST Shibpur**
 
