@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
