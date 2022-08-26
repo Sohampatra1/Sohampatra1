@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - ⌛️ Exploring **DevOps**
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning about **Embedded system**
 
 - 🧑🏻‍🎓 Pursuing my Bachelors in Electrical Engineering from **IIEST Shibpur**
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
 
 - 🛰 Like to participate in CTF's
 
-- 💬 Ask me about **DevOps ,Backend ,Server side things**
+- 💬 Ask me about **DevOps ,Embedded system ,Server side things**
 
 - 📫 How to reach me **Sohampatra2001@gmail.com**
 
