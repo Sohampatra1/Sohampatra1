@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 - ⌛️ Exploring **DevOps**
 
-- 🌱 I’m currently learning about **Embedded system**
+- 🌱 I’m currently learning about **Embedded system,Electronics**
 
 - 🧑🏻‍🎓 Pursuing my Bachelors in Electrical Engineering from **IIEST Shibpur**
 
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **Sohampatra2001@gmail.com**
 
-- 💻 Competitive Programming Enthusiast
+- 💻 Nerd---Geek
 
 
 
