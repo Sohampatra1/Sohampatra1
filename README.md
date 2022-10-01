@@ -111,19 +111,28 @@ Here are some ideas to get you started:
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohampatra1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+  <br>
+  <br>
+  <br>
+  <img align="right" width=450 src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
+  <img align="left" width=450 src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null" />
   
   <br>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=sohampatra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+  
+  
+  
 </p>
 
 
-![LeetCode Stats](https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null)
+<!--![LeetCode Stats](https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null)-->
 <!--![Soham Patra's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark) -->
 
 
-<img align="right" width=390 src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
-
+<!--<img align="right" width=390 src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
+<img align="left" width=390 src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null" /> -->
 
 <hr>
 
