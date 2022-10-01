@@ -119,7 +119,12 @@ Here are some ideas to get you started:
 
 
 ![LeetCode Stats](https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null)
-![Soham Patra's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark)
+<!--![Soham Patra's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark) -->
+
+
+<img align="right" width=390 src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
+
+
 <hr>
 
 
