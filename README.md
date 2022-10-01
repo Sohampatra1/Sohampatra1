@@ -114,9 +114,9 @@ Here are some ideas to get you started:
   <br>
   <br>
   <br>
-  <img align="right" width=450 src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
-  <img align="left" width=450 src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro&extension=null" />
-  
+  <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
+  <img align="left" width=45% src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro_border=true&extension=null" />
+  <br>
   <br>
   
   <img src="https://activity-graph.herokuapp.com/graph?username=sohampatra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
