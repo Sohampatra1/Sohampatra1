@@ -113,7 +113,7 @@ Here are some ideas to get you started:
   </div>
   <br>
   <br>
-  <br>
+  
   <img align="right" width=45% src="https://leetcode-stats.vercel.app/api?username=Soham007&theme=Dark" />
   <img align="left" width=45% src="https://leetcode.card.workers.dev/Soham007?theme=dark&font=source_code_pro_border=true&extension=null" />
   <br>
