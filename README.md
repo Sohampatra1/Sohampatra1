@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about **DevOps ,Embedded system ,Server side things**
 
-- 📫 How to reach me **Sohampatra2001@gmail.com**
+- 📫 How to reach me **Sohampatra777@gmail.com**
 
 - 💻 Nerd---Geek
 
