@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 <hr>
 
-<h2 align="center">⚡ Github Stats ⚡</h2>
+<h2 align="center">⚡ Github and Leetcode Stats ⚡</h2>
 <br>
 <p align=center>
   <div align=center>
