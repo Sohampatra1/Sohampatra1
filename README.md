@@ -229,9 +229,9 @@ Here are some ideas to get you started:
 <h1 align='center'>⚡️<i>Stay Hungry , Stay Foolish!</i>⚡️</h1>
 
 
-<!-- <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p> -->
+ <p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" 
+</p> 
 
 
 
@@ -245,7 +245,7 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%">
+<!--<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/footer.svg" width="100%"> />
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
