@@ -90,6 +90,12 @@ Here are some ideas to get you started:
 
 
 
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+<!--⏳ **Year Progress** { ███████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 50.70 % as on ⏰ 4-Jul-2023-->
+
 
 
 <hr>
