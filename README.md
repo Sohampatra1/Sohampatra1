@@ -254,9 +254,14 @@ Here are some ideas to get you started:
 <h1 align='center'>⚡️<i>Stay Hungry , Stay Foolish!</i>⚡️</h1>
 
 
- <p align="center">
+<!-- <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" 
-</p> 
+</p> -->
+
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
+</p>
 
 
 
