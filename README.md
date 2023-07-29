@@ -90,6 +90,14 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+
+
+
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
@@ -125,11 +133,24 @@ Here are some ideas to get you started:
   <br>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohampatra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
+  <!-- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sohampatra1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> 
   
 <!--  [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Sohampatra1&theme=react-dark  )](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+
+
   
 
+<hr>
+<p>
+  =-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+ <br>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Sohampatra1">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sohampatra1&theme=radical" >
+  </a>
 </p>
 
 
