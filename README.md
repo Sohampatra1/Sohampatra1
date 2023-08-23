@@ -55,9 +55,9 @@ Here are some ideas to get you started:
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-- ⌛️ Exploring **DevOps**
+- ⌛️ Exploring **Internet**
 
-- 🌱 I’m currently learning about **Embedded system,Electronics**
+- 🌱 I’m currently learning about *DevOps*
 
 - 🧑🏻‍🎓 Pursuing my Bachelors in Electrical Engineering from **IIEST Shibpur**
 
